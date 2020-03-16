@@ -3,7 +3,7 @@ import random
 import json
 
 #DEFINE THE USER WE WANT TO QUERY
-user = '@sutuitea'
+user = '@XXXXXXXXXX'
 json_file = 'tweets.json'
 
 
