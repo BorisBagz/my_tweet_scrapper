@@ -1,4 +1,4 @@
-# my_tweet_scrapper
+# My Own Tweet Scrapper!
 
 So i made this tweet scrapper one day when i was bored during the coronavirus lockdown; and bc susana asked me to.
 
