@@ -7,7 +7,7 @@ more info here:
 
 > https://github.com/twintproject/twint
 
-the rest is simple, just define the user you want to query at the beginning of the script and when you run it you give the word you want to look for.
+the rest is simple, just define the user you want to query at the beginning of the script and when you run it you introduce the word you want to look for.
 
 have fun!
 
